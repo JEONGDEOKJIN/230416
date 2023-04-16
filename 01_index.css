@@ -1,0 +1,23 @@
+
+.wrapper {
+    width: 1200vw;
+}
+
+
+.inner {
+    float: left;
+    
+    /* height: 100%; */
+    width: 100vw;
+}
+
+.inner-loopimg {
+    /* width: 100vw; */
+    transform: translate(-100vw);
+}
+
+.frame {
+
+    overflow: hidden;
+}
+
